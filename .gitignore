@@ -42,3 +42,9 @@ lerna-debug.log*
 Thumbs.db
 Desktop.ini
 
+# Archivos multimedia sueltos en la raíz (usar carpeta public/)
+/*.mp3
+/*.m4a
+/*.webm
+
+
