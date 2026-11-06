@@ -163,7 +163,7 @@ const GlyphReturn = ({ className = 'w-4 h-4' }: GlyphProps) => (
 // CONTENIDO NARRATIVO DEL VIAJE (edita aquí nombres, fechas y textos)
 // ============================================================================
 const CONTENT = {
-  recipientName: 'Matilde',
+  recipientName: 'Melanie',
   senderSignature: 'Siempre tuyo',
   phase1Badge: 'Mi universo eres tú',
   phase1Subtitle: 'Antes de ti, todo esto era solo oscuridad.',
@@ -226,7 +226,7 @@ const CONTENT = {
   ],
   phase8Quote: 'De todos los lugares del universo, mi favorito siempre será donde estés tú.',
   letterTitle: 'Para ti, mi universo entero',
-  letterBody: `Matilde:\n\nA veces miro la noche y pienso en lo improbable que es todo esto. Un universo de trece mil millones de años, y tú y yo coincidiendo justo aquí, justo ahora.\n\nAntes de ti, las estrellas eran solo puntos lejanos. Después de ti aprendieron a decir algo. Te volviste el planeta donde quiero quedarme, la luz que encuentro cuando todo se apaga, los dos soles que nunca dejan de buscarse y la galaxia entera que no me alcanza la vida para recorrer.\n\nGracias por tu ternura, por tu risa, por esa forma tuya de hacer que lo cotidiano brille.\n\nQue el cosmos sea infinito si quiere. Yo ya encontré mi lugar en él: a tu lado.`
+  letterBody: `Melanie:\n\nA veces miro la noche y pienso en lo improbable que es todo esto. Un universo de trece mil millones de años, y tú y yo coincidiendo justo aquí, justo ahora.\n\nAntes de ti, las estrellas eran solo puntos lejanos. Después de ti aprendieron a decir algo. Te volviste el planeta donde quiero quedarme, la luz que encuentro cuando todo se apaga, los dos soles que nunca dejan de buscarse y la galaxia entera que no me alcanza la vida para recorrer.\n\nGracias por tu ternura, por tu risa, por esa forma tuya de hacer que lo cotidiano brille.\n\nQue el cosmos sea infinito si quiere. Yo ya encontré mi lugar en él: a tu lado.`
 };
 
 const TOTAL_PHASES = 8;
